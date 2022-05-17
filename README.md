@@ -1,4 +1,4 @@
-![App Brewery Banner](Documentation/AppBreweryBanner.png)
+
 
 # Calculator Layout Boss Challenge
 
